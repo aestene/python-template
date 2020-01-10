@@ -4,5 +4,5 @@
 
 
 ## Setup
-1. Go to your Travis webpage and activate Travis for this repository. (Keep in mind that the build will fail as there is nothing to lint in src and no tests to run in the template)
-2. 
+1. Go to your Travis webpage and activate Travis for this repository (keep in mind that the build will fail as there is nothing to lint in src and no tests to run in the template).
+2. Go to codecov.io and your account and add the repository there. 
