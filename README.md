@@ -6,3 +6,4 @@
 ## Setup
 1. Go to your Travis webpage and activate Travis for this repository (keep in mind that the build will fail as there is nothing to lint in src and no tests to run in the template).
 2. Go to codecov.io and your account and add the repository there. 
+3. You can alter your linting requirements in .pylintrc, where currently a mix of camelCase and PascalCase is used for naming conventions.
